@@ -9,13 +9,6 @@ package contabilidad;
  *
  * @author usuario
  */
-public class Contabilidad {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Modificacion1");
-    }
+public class Coche {
     
 }
