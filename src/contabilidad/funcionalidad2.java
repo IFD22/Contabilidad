@@ -7,15 +7,8 @@ package contabilidad;
 
 /**
  *
- * @author usuario
+ * @author DAM109
  */
-public class Contabilidad {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Modificacion1");
-    }
-   
+public class funcionalidad2 {
+    
 }
