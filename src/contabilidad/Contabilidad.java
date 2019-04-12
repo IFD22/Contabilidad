@@ -19,4 +19,10 @@ public class Contabilidad {
         System.out.println("Holissss");
     }
    
+    public static void Carlos(){
+        System.out.println("Modificacion - Carlos");
+    }   
+    public static void Iñigo(){
+        System.out.println("Modificacion-Iñigo");
+    }
 }
