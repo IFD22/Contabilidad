@@ -9,6 +9,6 @@ package contabilidad;
  *
  * @author usuario
  */
-public class Coche {
+public class Coche {       
     
 }
