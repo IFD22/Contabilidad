@@ -18,7 +18,7 @@ public class Contabilidad {
         System.out.println("Modificacion1");
         System.out.println("Holissss");
     }
+    
     public static void Iñigo(){
-        System.out.println("Modificacion-Iñigo");
-    }
+        System.out.println("Modificacion-Iñigo");}
 }
