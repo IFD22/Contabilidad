@@ -17,5 +17,7 @@ public class Contabilidad {
     public static void main(String[] args) {
         System.out.println("Modificacion1");
     }
-    
+    public static void Iñigo(){
+        System.out.println("Modificacion-Iñigo");
+    }
 }
