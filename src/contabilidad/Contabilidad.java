@@ -20,5 +20,8 @@ public class Contabilidad {
     }
     public static void Carlos(){
         System.out.println("Modificacion - Carlos");
+    }   
+    public static void Iñigo(){
+        System.out.println("Modificacion-Iñigo");
     }
 }
